@@ -15,7 +15,7 @@ h1 {
     text-align: center;
 }
 .input-text {
-    border: 1px solid slategray;
+    border: 1px solid rgb(127, 127, 169);
     width: 160px;
     height: 20px;
     margin: 0;
@@ -24,7 +24,7 @@ h1 {
 }
 
 .output-text {
-    border: 1px dotted slategray;
+    border: 1px dotted rgb(127, 127, 169);
     width: 160px;
     min-height: 20px;
     height: auto;
@@ -35,4 +35,6 @@ button {
     width: 120px;
     height: 70px;
     display: inline;
+    color: white;
+    background-color: rgb(127, 127, 169);
 }
