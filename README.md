@@ -1,4 +1,4 @@
-# morse-code-translator
+# Morse Code Translator
 
 This translator can translate words from English to Morse code and vice versa.
 
@@ -17,8 +17,8 @@ This translator can translate words from English to Morse code and vice versa.
 
 ## Functionality
 * The user types either a) a word in English and presses "translate to Morse" or b) a word in morse and presses "translate to English"
-* The result is displayed in the output box
+* The result is then displayed in the output box
 
 ## Links
 * [GitHub repository](https://github.com/blaisebuckland/morse-code-translator) 
-* [The game](https://blaisebuckland.github.io/morse-code-translator/)
+* [The translator](https://blaisebuckland.github.io/morse-code-translator/)
