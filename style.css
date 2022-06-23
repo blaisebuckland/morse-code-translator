@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    background-color: lightgray;
+    background-color: rgb(220, 219, 219);
 }
 
 h1 {
@@ -16,18 +16,19 @@ h1 {
 }
 .input-text {
     border: 1px solid rgb(127, 127, 169);
-    width: 160px;
-    height: 20px;
-    margin: 0;
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
     padding: 0;
     background-color: aliceblue;
 }
 
 .output-text {
     border: 1px dotted rgb(127, 127, 169);
-    width: 160px;
-    min-height: 20px;
+    width: 200px;
+    min-height: 30px;
     height: auto;
+    margin-bottom: 30px;
     background-color: aliceblue;
 }
 button {
@@ -35,6 +36,12 @@ button {
     width: 120px;
     height: 70px;
     display: inline;
-    color: white;
-    background-color: rgb(127, 127, 169);
+    color: aliceblue;
+    background-color: rgb(89, 22, 95);
+    cursor: pointer;
+}
+
+p {
+    width: 80%;
+    text-align: center;
 }
