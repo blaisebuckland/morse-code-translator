@@ -1,6 +1,6 @@
 # Morse Code Translator
 
-This translator can translate words from English to Morse code and vice versa. It is my first project using JavaScript classes and unit testing. 
+This translator can translate words, numbers and simple punctuation from English to Morse code and vice versa. It is my first project using JavaScript classes and unit testing. 
 
 Separating out and purifying functions in order to be able to test them was challenging but made the code cleaner. The tests also revealed a bug that I hadn't originally spotted in the browser, which I was then able to fix.
 
@@ -16,11 +16,11 @@ Separating out and purifying functions in order to be able to test them was chal
 
 ## Images
 <img src="https://github.com/blaisebuckland/morse-code-translator/blob/main/images/englishToMorse.png" alt="game-image-1" width=400>
-<img src="https://github.com/blaisebuckland/morse-code-translator/blob/main/images/morseToEnglish.png" alt="game-image-2" width=600>
+<img src="https://github.com/blaisebuckland/morse-code-translator/blob/main/images/morseToEnglish.png" alt="game-image-2" width=800>
 
 
 ## Functionality
-* The user types either a) a word in English and presses "translate to Morse" or b) a word in morse and presses "translate to English"
+* The user types either a word/number/sentence in English or Morse and then presses either "Translate to Morse" or "Translate to English"
 * The result is then displayed in the output box
 
 ## Testing
